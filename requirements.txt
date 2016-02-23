@@ -1,0 +1,6 @@
+Django==1.9.2
+greenlet==0.4.9
+eventlet==0.18.4
+watchdog==0.8.3
+-e git+https://github.com/duanhongyi/dwebsocket#egg=dwebsocket-master
+
